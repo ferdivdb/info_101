@@ -1,5 +1,7 @@
 # Exercices Théoriques Python
 
+[![N|Solid](https://fundit.fr/sites/default/files/actors/1456-universite-libre-bruxelles-ulb.jpg)](https://nodesource.com/products/nsolid)
+
 ## Les classes
 
 ### La Méthode \__init\__
